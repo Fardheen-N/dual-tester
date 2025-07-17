@@ -1,0 +1,4 @@
+2025-07-16 11:36:18 [INFO] Element is visible (main.py:22)
+2025-07-16 11:36:27 [INFO] search successful (main.py:25)
+2025-07-16 11:36:27 [INFO] Product XPATH: ('xpath', "//div[a[contains(@title, 'CMF by Nothing Buds Pro 2')]]//div[@class='Nx9bqj']") (main.py:27)
+2025-07-16 11:36:27 [INFO] Product: ₹3,499 (main.py:35)
